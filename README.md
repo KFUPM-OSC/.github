@@ -19,3 +19,4 @@ A curated list of awesome Open Source projects at the [King Fahd University of P
 * [whatsappBot](https://github.com/soraxksa/whatsappBot) - 
 * [TriviaGame](https://github.com/Modalessi/TriviaGame) - a simple trivia game.
 * [Enigma](https://github.com/mohalobaidi/Enigma) - an automated system to upload, compile and judge players submissions of programming problems.
+* [instgram-clone-api](https://github.com/ziyad00/instgram-clone-api) - an instgram clone that has timeline, likes,follwing,comments,photos.
