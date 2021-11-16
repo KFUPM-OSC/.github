@@ -21,3 +21,4 @@ A curated list of awesome Open Source projects at the [King Fahd University of P
 * [Enigma](https://github.com/mohalobaidi/Enigma) - an automated system to upload, compile and judge players submissions of programming problems.
 * [instgram-clone-api](https://github.com/ziyad00/instgram-clone-api) - an instgram clone that has timeline, likes,follwing,comments,photos.
 * [PMM](https://github.com/Oss/PlanMyMonth) - PlanMyMonth is web-based application that allow you to plan your projects & tasks for the month easy.
+* [GRADUATE PLAN](https://github.com/mohsowa/GRADUATEPLAN) - An extension that helps students in universities create their graduate plan.
