@@ -22,3 +22,4 @@ A curated list of awesome Open Source projects at the [King Fahd University of P
 * [instgram-clone-api](https://github.com/ziyad00/instgram-clone-api) - an instgram clone that has timeline, likes,follwing,comments,photos.
 * [PMM](https://github.com/0ss/PlanMyMonth) - PlanMyMonth is web-based application that allow you to plan your projects & tasks for the month easy.
 * [GRADUATE PLAN](https://github.com/mohsowa/GRADUATEPLAN) - An extension that helps students in universities create their graduate plan.
+* [Umrah+ app](https://github.com/TheAhmedSaeed/Umrah-Flutter) - An app that helps pilgrims perform when peroforming Umrah.
