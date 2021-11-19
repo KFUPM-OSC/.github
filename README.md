@@ -1,5 +1,6 @@
 # Awesome KFUPM Projects
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![ar](https://img.shields.io/badge/lang-ar-green.svg)](https://github.com/mohalobaidi/awesome-kfupm/blob/master/README.ar.md)
 
 A curated list of awesome Open Source projects at the [King Fahd University of Petroleum & Minerals (KFUPM)](https://kfupm.edu.sa/).
 
