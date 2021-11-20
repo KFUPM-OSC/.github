@@ -1,27 +1,69 @@
-# Awesome KFUPM Projects
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![ar](https://img.shields.io/badge/lang-ar-green.svg)](https://github.com/mohalobaidi/awesome-kfupm/blob/master/README.ar.md)
+# Awesome KFUPM Projects [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+
 
 A curated list of awesome Open Source projects at the [King Fahd University of Petroleum & Minerals (KFUPM)](https://kfupm.edu.sa/).
 
-## Table of Contents
-
-* [Projects](#Projects)
 
 ## Projects
 
-* [AthanApp](https://github.com/ipkalid/AthanApp) - An awesome Prayer time Reminder App.
-* [react-gpa-calculator](https://github.com/mrbasel/react-gpa-calculator) - A simple gpa calculator made using React.js.
-* [hn-reader](https://github.com/mrbasel/hn-reader) - A reader app for Hacker News with a simple and mobile friendly UI.
-* [Wordpress_StarterPlugin](https://github.com/AbdulazizYas/Wordpress_StarterPlugin) - A starter plugin to start developing a new plugin for WordPress.
-* [SimpleWordpressTheme](https://github.com/AbdulazizYas/SimpleWordpressTheme) - A simple WordPress theme.
-* [MealFlutterApp](https://github.com/AbdulazizYas/MealFlutterApp) -
-* [bininfo](https://github.com/soraxksa/bininfo) -
-* [whatsappBot](https://github.com/soraxksa/whatsappBot) - 
-* [TriviaGame](https://github.com/Modalessi/TriviaGame) - a simple trivia game.
-* [Enigma](https://github.com/mohalobaidi/Enigma) - an automated system to upload, compile and judge players submissions of programming problems.
-* [instgram-clone-api](https://github.com/ziyad00/instgram-clone-api) - an instgram clone that has timeline, likes,follwing,comments,photos.
-* [PMM](https://github.com/0ss/PlanMyMonth) - PlanMyMonth is web-based application that allow you to plan your projects & tasks for the month easy.
-* [GRADUATE PLAN](https://github.com/mohsowa/GRADUATEPLAN) - An extension that helps students in universities create their graduate plan.
-* [Umrah+ app](https://github.com/TheAhmedSaeed/Umrah-Flutter) - An app that helps pilgrims perform when peroforming Umrah.
-* [Media Club website](https://github.com/Mzaien/MediaClub/) - A JAMStack website for the Media Club at KFUPM.
+* [AthanApp](https://github.com/ipkalid/AthanApp)
+  • _by_ [_@ipkalid_](https://github.com/ipkalid)
+  \- An awesome Prayer time Reminder App. `SwiftUI`
+  
+* [react-gpa-calculator](https://github.com/mrbasel/react-gpa-calculator)
+  ⭐ • _by_ [_@mrbasel_](https://github.com/mrbasel)
+  \- A simple gpa calculator made using React.js. `React.js`
+  
+* [hn-reader](https://github.com/mrbasel/hn-reader)
+  • _by_ [_@mrbasel_](https://github.com/mrbasel)
+  \- A reader app for Hacker News with a simple and mobile friendly UI. `React.js`
+  
+* [Wordpress_StarterPlugin](https://github.com/AbdulazizYas/Wordpress_StarterPlugin)
+  • _by_ [_@AbdulazizYas_](https://github.com/AbdulazizYas)
+  \- A starter plugin to start developing a new plugin for WordPress. `WordPress`
+  
+* [SimpleWordpressTheme](https://github.com/AbdulazizYas/SimpleWordpressTheme)
+  • _by_ [_@AbdulazizYas_](https://github.com/AbdulazizYas)
+  \- A simple WordPress theme. `WordPress`
+  
+* [TriviaGame](https://github.com/Modalessi/TriviaGame)
+  • _by_ [_@Modalessi_](https://github.com/Modalessi)
+  \- A simple trivia game. `SwiftUI`
+  
+* [Enigma](https://github.com/mohalobaidi/Enigma)
+  • _by_ [_@mohalobaidi_](https://github.com/mohalobaidi)
+  \- An automated system to upload, compile and judge submissions of programming problems. `Vuejs`
+  
+* [instgram-clone-api](https://github.com/ziyad00/instgram-clone-api)
+  • _by_ [_@ziyad00_](https://github.com/ziyad00)
+  \- An instgram clone that has timeline, likes, follwing, comments and photos. `Django`
+  
+* [PlanMyMonth](https://github.com/0ss/PlanMyMonth)
+  ⭐ • _by_ [_@0ss_](https://github.com/0ss)
+  \- A web-based application that allow you to plan your projects & tasks for the month easy. `Vuejs`
+  
+* [GRADUATE PLAN](https://github.com/mohsowa/GRADUATEPLAN)
+  ⭐ • _by_ [_@mohsowa_](https://github.com/mohsowa)
+  \- An extension that helps students in universities create their graduate plan. `Javascript`
+  
+* [Umrah+ app](https://github.com/TheAhmedSaeed/Umrah-Flutter)
+  • _by_ [_@TheAhmedSaeed_](https://github.com/TheAhmedSaeed)
+  \- An app that helps pilgrims perform when peroforming Umrah. `Flutter`
+
+* [Media Club website](https://github.com/Mzaien/MediaClub/)
+  ⭐ • _by_ [_@Mzaien_](https://github.com/Mzaien)
+  \- A JAMStack website for the Media Club at KFUPM. `Gatsby`
+  
+    
+* [MealFlutterApp](https://github.com/AbdulazizYas/MealFlutterApp)
+  • _by_ [_@AbdulazizYas_](https://github.com/AbdulazizYas) 
+  \- `Flutter`
+  
+* [bininfo](https://github.com/soraxksa/bininfo)
+  • _by_ [_@soraxksa_](https://github.com/soraxksa)
+  \- `C++`
+  
+* [whatsappBot](https://github.com/soraxksa/whatsappBot)
+  • _by_ [_@soraxksa_](https://github.com/soraxksa)
+  \- `Node.js`
