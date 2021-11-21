@@ -55,6 +55,9 @@ A curated list of awesome Open Source projects at the [King Fahd University of P
   ⭐ • _by_ [_@Mzaien_](https://github.com/Mzaien)
   \- A JAMStack website for the Media Club at KFUPM. `Gatsby`
   
+* [Scheduling-of-Courses](https://github.com/al7mmad/Scheduling-of-Courses)
+  • _by_ [_@al7mmad_](https://github.com/al7mmad) 
+  \- a tool for a student who wants scheduling his courses/classes in Timetable Scheduler. `ASP.NET`
     
 * [MealFlutterApp](https://github.com/AbdulazizYas/MealFlutterApp)
   • _by_ [_@AbdulazizYas_](https://github.com/AbdulazizYas) 
