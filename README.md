@@ -58,6 +58,10 @@ A curated list of awesome Open Source projects at the [King Fahd University of P
 * [Scheduling-of-Courses](https://github.com/al7mmad/Scheduling-of-Courses)
   • _by_ [_@al7mmad_](https://github.com/al7mmad) 
   \- a tool for a student who wants scheduling his courses/classes in Timetable Scheduler. `ASP.NET`
+  
+* [AamenApp](https://github.com/nawafalomari/AamenApp)
+  • _by_ [_@nawafalomari_](https://github.com/nawafalomari) _&_ [_@HadiAlMarzooq_](https://github.com/HadiAlMarzooq)
+  \- An app that links medical insurance and hospitals with patients. `Flutter`
     
 * [MealFlutterApp](https://github.com/AbdulazizYas/MealFlutterApp)
   • _by_ [_@AbdulazizYas_](https://github.com/AbdulazizYas) 
