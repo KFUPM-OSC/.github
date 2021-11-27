@@ -52,7 +52,7 @@ A curated list of awesome Open Source projects at the [King Fahd University of P
   \- An app that helps pilgrims perform when peroforming Umrah. `Flutter`
 
 * [Media Club website](https://github.com/Mzaien/MediaClub/)
-  ⭐ • _by_ [_@Mzaien_](https://github.com/Mzaien)
+  ⭐ • _by_ [_@Mzaien_](https://github.com/Mzaien) & [_@waleed-alfaifi_](https://github.com/waleed-alfaifi)
   \- A JAMStack website for the Media Club at KFUPM. `Gatsby`
   
 * [Scheduling-of-Courses](https://github.com/al7mmad/Scheduling-of-Courses)
@@ -74,3 +74,6 @@ A curated list of awesome Open Source projects at the [King Fahd University of P
 * [whatsappBot](https://github.com/soraxksa/whatsappBot)
   • _by_ [_@soraxksa_](https://github.com/soraxksa)
   \- `Node.js`
+* [Next-Libs](https://github.com/mzaien/Next-Libs)
+  • _by_ [_@mzaien_](https://github.com/mzaien)
+  \- `Next.js template for making next.js libraries`
