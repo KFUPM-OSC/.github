@@ -31,7 +31,7 @@ A curated list of awesome Open Source projects at the [King Fahd University of P
   • _by_ [_@Modalessi_](https://github.com/Modalessi)
   \- A simple trivia game. `UIKit`
   
-* [Pyanime](pyanime)
+* [Pyanime](https://github.com/Modalessi/pyanime)
   • _by_ [_@Modalessi_](https://github.com/Modalessi)
   \- cli tool to watch anime, tv shows and movies. `Python`
   
