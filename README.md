@@ -29,7 +29,11 @@ A curated list of awesome Open Source projects at the [King Fahd University of P
   
 * [TriviaGame](https://github.com/Modalessi/TriviaGame)
   • _by_ [_@Modalessi_](https://github.com/Modalessi)
-  \- A simple trivia game. `SwiftUI`
+  \- A simple trivia game. `UIKit`
+  
+* [Pyanime](pyanime)
+  • _by_ [_@Modalessi_](https://github.com/Modalessi)
+  \- cli tool to watch anime, tv shows and movies. `Python`
   
 * [Enigma](https://github.com/mohalobaidi/Enigma)
   • _by_ [_@mohalobaidi_](https://github.com/mohalobaidi)
