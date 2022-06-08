@@ -81,3 +81,8 @@ A curated list of awesome Open Source projects at the [King Fahd University of P
 * [Next-Libs](https://github.com/mzaien/Next-Libs)
   • _by_ [_@mzaien_](https://github.com/mzaien)
   \- `Next.js template for making next.js libraries`
+
+
+* [zatca](https://github.com/axenda/zatca)
+  • _by_ [@axenda](https://github.com/zatca)
+  \- ZATCA (Fatoorah) QR-Code implementation
