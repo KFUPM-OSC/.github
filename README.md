@@ -36,7 +36,7 @@ A curated list of awesome Open Source projects at the [King Fahd University of P
   \- cli tool to watch anime, tv shows and movies. `Python`
   
 * [Enigma](https://github.com/mohalobaidi/Enigma)
-  • _by_ [_@mohalobaidi_](https://github.com/mohalobaidi)
+  • _by_ [_@mohalobaidi_](https://github.com/mohalobaidi) _&_ [@ihadabs](https://github.com/ihadabs)
   \- An automated system to upload, compile and judge submissions of programming problems. `Vuejs`
   
 * [instgram-clone-api](https://github.com/ziyad00/instgram-clone-api)
@@ -80,9 +80,9 @@ A curated list of awesome Open Source projects at the [King Fahd University of P
   \- `Node.js`
 * [Next-Libs](https://github.com/mzaien/Next-Libs)
   • _by_ [_@mzaien_](https://github.com/mzaien)
-  \- `Next.js template for making next.js libraries`
+  \- Next.js template for making next.js libraries `Node.js` `Reactjs` `Next.js`
 
 
-* [zatca](https://github.com/axenda/zatca)
-  • _by_ [@axenda](https://github.com/axenda)
-  \- ZATCA (Fatoorah) QR-Code implementation
+* [ZATCA](https://github.com/axenda/zatca)
+  • _by_ [@Axenda](https://github.com/axenda) ([@ihadabs](https://github.com/ihadabs))
+  \- ZATCA (Fatoorah) QR-Code implementation. `Node.js` `TypeScript`
