@@ -84,5 +84,5 @@ A curated list of awesome Open Source projects at the [King Fahd University of P
 
 
 * [zatca](https://github.com/axenda/zatca)
-  • _by_ [@axenda](https://github.com/zatca)
+  • _by_ [@axenda](https://github.com/axenda)
   \- ZATCA (Fatoorah) QR-Code implementation
