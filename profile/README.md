@@ -4,6 +4,11 @@ A curated list of awesome Open Source projects at the [King Fahd University of P
 
 ## Projects
 
+ ![](https://res.cloudinary.com/petroly-initiative/image/upload/c_scale,q_100,w_30/v1642691619/general/f74a9fb8-2da4-424d-a502-697d1424c906_krbjhu.png)
+  [Visit Petroly](https://petroly.co)
+   \- Digital Platform for All KFUPMers
+  \-\- [Petroly Initiative](https://github.com/petroly-initiative)
+
 * [AthanApp](https://github.com/ipkalid/AthanApp)
   • _by_ [_@ipkalid_](https://github.com/ipkalid)
   \- An awesome Prayer time Reminder App. `SwiftUI`
